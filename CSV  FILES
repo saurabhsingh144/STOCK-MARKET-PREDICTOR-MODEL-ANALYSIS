@@ -1,0 +1,6 @@
+file contain all necessary csv files  used in  project  with corresponding dates 
+install tesla stock from yahoo finance API
+tsla_df =start='2012-01-01'end='2022-05-10' 
+GAIL_df= start='2012-01-01' end='2022-05-10' 
+BPCL_df= start='2012-01-01' end='2022-05-10' 
+TATA_df= start='2012-01-01' end='2022-05-10'   
